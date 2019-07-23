@@ -9,6 +9,7 @@ This repository shows how `Project 1: Navigation` from the Udacity Deep Reinforc
 
 The README provides some general information. The repository also contains source code (in the `src` directory) and a report (in the `report` directory).
 
+
 ## Project details
 
 ![banna](img/visualization_1.gif)
@@ -31,6 +32,7 @@ At each step, the agent can choose between four actions:
 Learning is episodic. Each episode always contains exactly 300 steps.
 
 The problem is considered to be solved as soon as the average reward over the preceding 100 episodes exceeds 13.0. It is known that the problem should be solvable within 1800 episodes. The fewer episodes required, the better.
+
 
 ## Setup
 
@@ -116,6 +118,7 @@ wget https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Linux_NoV
 	```
 	
 	Then point a local browser to https://127.0.0.1.
+
 
 ## Training
 

@@ -7,7 +7,7 @@
 
 This repository shows how `Project 1: Navigation` from the Udacity Deep Reinforcement Learning Nanodegree was tackled.
 
-The README provides some general information. The repository also contains source code (in the `src` directory) and a report (in the `report` directory).
+The README provides some general information. The repository also contains source code as well as a report.
 
 
 ## Project details
@@ -60,7 +60,7 @@ The following steps will create the computing environment that was used for trai
 
 	```
 	cd ~/external/udacity/deep-reinforcement-learning/p1_navigation
-wget https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Linux_NoVis.zip
+	wget https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Linux_NoVis.zip
 	unzip Banana_Linux_NoVis.zip
 	```
 	
